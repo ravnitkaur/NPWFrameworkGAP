@@ -1,0 +1,8 @@
+<suite name="RunningGAP/RATestCases" parallel="tests">
+	<test name="GAPTestCases">
+		<classes>
+			<class name="com.npw.testscripts.gap.TC_002_KnowYouBetterPage_Validations_InvalidValuesEntered" />
+			<class name="com.npw.testscripts.gap.TC_003_GreatDecisionPage_Validations_INvalidValuesEntered" />
+		</classes>
+	</test>
+</suite>
